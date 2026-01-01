@@ -85,6 +85,8 @@ The following models were implemented and evaluated:
 
 ✅ **Best performing model: Deep LSTM**
 
+Due to its large size, the dataset is not included in this repository and can be downloaded from Kaggle at the following link:
+https://www.kaggle.com/datasets/albertovidalrod/electricity-consumption-uk-20092022?select=historic_demand_2009_2024_noNaN.csv
 ---
 
 ## 🌐 Web Interface (IMPORTANT)
